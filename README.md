@@ -1,7 +1,7 @@
-# DesignResourcesKit
+# KahfDesignResourcesKit
 
 ## What is it?
-`DesignResourcesKit` is a narrowly scoped Swift package containing the implementation of design system elements for iOS and macOS apps. This currently only includes colors and typography. 
+`KahfDesignResourcesKit` is a narrowly scoped Swift package containing the implementation of design system elements for iOS and macOS apps. This currently only includes colors and typography. 
 See the full documentation here: https://app.asana.com/0/1202500774821704/1204423793264693/f  
   
 ## Making changes
@@ -11,5 +11,5 @@ If a design contains typography or colors not in this package, they should eithe
 Occasionally it may be necessary to add a color that is used in only one place and isn't part of the design system. For these, there is a deliberately obtusely named folder in the asset catalog called "SingleUseExceptionsNotPartOfTheDesignSystem". You should think carefully before adding a color here, and question with the designer if it should be part of the design system. 
   
 ## License
-DuckDuckGo is distributed under the Apache 2.0 [license](https://github.com/duckduckgo/DesignResourcesKit/blob/main/LICENSE).
+DuckDuckGo is distributed under the Apache 2.0 [license](https://github.com/duckduckgo/KahfDesignResourcesKit/blob/main/LICENSE).
 
